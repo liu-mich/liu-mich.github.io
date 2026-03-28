@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am an incoming Ph.D. student at [Your University]. 
+I am an incoming Ph.D. student at [University]. 
 
-I grew up in Charlotte, North Carolina, and hold a BA from the University of North Carolina at Chapel Hill, where I studied Political Science, Public Policy, and Data Science.
+I am from Charlotte, North Carolina, and hold a BA from the University of North Carolina at Chapel Hill, where I studied political science, public policy, and data science.
 
 ## Research Interests
 
