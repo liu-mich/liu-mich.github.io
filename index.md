@@ -14,4 +14,3 @@ I am from Charlotte, North Carolina, and hold a BA from the University of North 
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
