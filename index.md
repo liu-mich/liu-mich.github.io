@@ -9,7 +9,7 @@ layout: homepage
 
 I am an incoming Ph.D. student at [University]. 
 
-I am from Charlotte, North Carolina, and hold a BA from the University of North Carolina at Chapel Hill
+I am from Charlotte, North Carolina, and hold a BA from the University of North Carolina at Chapel Hill.
 
 ## Research Interests
 
