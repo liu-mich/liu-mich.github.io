@@ -1,0 +1,81 @@
+---
+---
+
+@import "minimal-light";
+
+/* ==============================
+   Color overrides — all black
+   ============================== */
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #000 !important;
+}
+
+/* Links */
+a {
+  color: #000 !important;
+}
+
+a:hover {
+  color: #000 !important;
+  text-decoration: underline;
+}
+
+/* Social icons (theme uses !important with high specificity, must match) */
+.social-icons a {
+  color: #000 !important;
+}
+
+/* autocolor custom element */
+autocolor {
+  color: #000 !important;
+}
+
+/* papertitle custom element */
+papertitle {
+  color: #000 !important;
+}
+
+/* Strong text */
+strong {
+  color: #000 !important;
+}
+
+/* Table headers */
+th, dt {
+  color: #000 !important;
+}
+
+/* ==============================
+   Dark mode overrides
+   ============================== */
+@media (prefers-color-scheme: dark) {
+  h1, h2, h3, h4, h5, h6 {
+    color: #fff !important;
+  }
+
+  a, a:hover {
+    color: #fff !important;
+  }
+
+  .social-icons a {
+    color: #fff !important;
+  }
+
+  autocolor {
+    color: #dadbdf !important;
+  }
+
+  papertitle {
+    color: #eeeff0 !important;
+  }
+
+  strong {
+    color: #eeeff0 !important;
+  }
+
+  th, dt {
+    color: #fff !important;
+  }
+}
