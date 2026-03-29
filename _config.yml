@@ -1,21 +1,20 @@
 # Basic Information
 title: Michelle Liu
-position: Incoming Ph.D. Student
+position: Ph.D. Student
 affiliation: "[Your University]"
 email: "[your email (at) university.edu]"
 
 # Search Engine Optimization (SEO)
-keywords: Michelle Liu, political science, public opinion, political psychology, political communication, survey methodology
-description: Michelle Liu is an incoming Ph.D. student studying public opinion, political psychology, political communication, and survey methodology.
-canonical: https://[your-github-username].github.io/
+keywords: 
+description:
+canonical: https://liu-mich.github.io/
 
 # Links
 # If you don't need one of them, you may delete the corresponding line.
 # google_scholar: https://scholar.google.com/
-# cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/[your-github-username]
-# linkedin: https://www.linkedin.com/in/[your-profile]
-# twitter: https://twitter.com/[your-handle]
+ cv_link: assets/files/curriculum_vitae.pdf
+# github_link: https://github.com/[your-github-username]
+
 
 # Images (e.g., your profile picture and your website's favicon)
 avatar: ./assets/img/avatar.png
