@@ -1,0 +1,43 @@
+---
+---
+
+@import "minimal-light";
+
+/* ==============================
+   Color overrides — all black
+   ============================== */
+
+/* Links */
+a {
+  color: #000 !important;
+}
+
+a:hover {
+  color: #000 !important;
+  text-decoration: underline;
+}
+
+/* Headings and name */
+h1, h2, h3, h4, h5, h6 {
+  color: #000 !important;
+}
+
+/* Accent / highlight color used on name and section titles */
+.name, strong {
+  color: #000 !important;
+}
+
+/* Dark mode overrides */
+@media (prefers-color-scheme: dark) {
+  a {
+    color: #fff !important;
+  }
+
+  a:hover {
+    color: #fff !important;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #fff !important;
+  }
+}
