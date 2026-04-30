@@ -7,13 +7,9 @@ layout: homepage
 
 ## About Me
 
-I am an incoming Ph.D. student in Politics at Princeton University. 
+I am an incoming Ph.D. student at Princeton University's Politics Department. My research interests include public opinion, political communication, political psychology, and survey methodology. 
 
-I am from Charlotte, North Carolina, and hold a BA from the University of North Carolina at Chapel Hill.
-
-## Research Interests
-
-- American Political Behavior, Public Opinion, Political Psychology, Political Communication, Survey Methodology
+I am from Charlotte, North Carolina, and hold a BA from the University of North Carolina at Chapel Hill. My hobbies include making art, trying out coffee shops, and using the Oxford comma. 
 
 {% comment %}Uncomment the line below to display{% endcomment %}
 {% comment %}{% include_relative _includes/publications.md %}{% endcomment %}
