@@ -2,7 +2,6 @@
 layout: homepage
 ---
 <div style="text-align: center; margin-bottom: 20px;">
-  <img src="assets/img/photo.jpeg" alt="Michelle Liu" style="width: 100%; border-radius: 8px;" />
 </div>
 
 ## About Me
