@@ -6,7 +6,7 @@ layout: homepage
 
 {% comment %} ##About Me {% endcomment %}
 
-I am an incoming Politics Ph.D. student and Centennial Fellow in the Social Sciences and Humanities at Princeton University. My research interests include public opinion, political communication, political psychology, and survey/experimental methods. 
+I am an incoming Politics Ph.D. student and Centennial Fellow in the Social Sciences and Humanities at Princeton University. My research interests include mass public opinion, political communication, political psychology, and survey/experimental methods. 
 
 I hold a BA from the University of North Carolina at Chapel Hill and am from Charlotte, NC. 
 
